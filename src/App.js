@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          
+          <p>"What do you want to count?"</p>
         </header>
       </div>
     );
